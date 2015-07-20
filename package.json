@@ -1,0 +1,28 @@
+{
+  "name": "dispatcher",
+  "version": "1.0.0",
+  "description": "Take home dispatcher assignment",
+  "main": "dispatcher.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jyeg/dispatcher.git"
+  },
+  "author": "John Yeglinski <john.yeg.is@gmail.com>",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/jyeg/dispatcher/issues"
+  },
+  "homepage": "https://github.com/jyeg/dispatcher",
+  "devDependencies": {
+    "chai": "^3.2.0",
+    "grunt": "^0.4.5",
+    "grunt-mocha-test": "^0.12.7",
+    "mocha": "^2.2.5"
+  },
+  "dependencies": {
+    "q": "^1.4.1"
+  }
+}
